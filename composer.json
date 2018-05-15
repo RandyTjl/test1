@@ -1,0 +1,17 @@
+{
+    "name": "tjl/test",
+    "description": "this is a test of tjl",
+    "type": "composer-pkugin",
+    "authors": [
+        {
+            "name": "tjl",
+            "email": "3268429734@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tjl\\Test\\": "packages/tjl/test/src/"
+        }
+    }
+}
