@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Tjl\\Test\\": "packages/tjl/test/src/"
+            "Tjl\\Test\\": "src/"
         }
     }
 }
